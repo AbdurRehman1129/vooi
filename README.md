@@ -84,7 +84,11 @@ Create a `config.json` file in the project root directory:
 - `open_position`: Enable/disable auto open position fuction (true/false).
 - `auto_complete_task`: Enable/disable auto complete quest (true/false).
 - `auto_play_game`: Enable/disable auto play taps game (true/false).
+<<<<<<< HEAD
 - `profit_threshold` and `loss_threshold`: Min and max profit or loss to close position in % x10
+=======
+- `profit_threshold` and `loss_threshold`: Minimum and maximum profit or loss to close position
+>>>>>>> 67036b4cb8acdf59af08defbd8387c337f3aade1
 - `max_game_to_play`: Number of the taps game to play `default 6`
 - `account_delay`: Delay (in seconds) between processing each account.
 - `countdown_loop`: Time (in seconds) before restarting the bot cycle.
