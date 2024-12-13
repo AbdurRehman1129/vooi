@@ -36,8 +36,8 @@ UQBy7ICXV6qFGeFTRWSpnMtoH6agYF3PRa5nufcTr3GVOPri - TON
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/nadirasaid8/vooi-bot.git
-   cd vooi-bot
+   git clone https://github.com/AbdurRehman1129/vooi
+   cd vooi
       ```
 2. **Create a virtual environment (optional but recommended)**
 
