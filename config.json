@@ -5,7 +5,7 @@
     "auto_play_game": true,
     "profit_threshold": 0.4,
     "loss_threshold": -0.9,
-    "max_game_to_play": 6p,
+    "max_game_to_play": 60,
     "account_delay": 5,
     "countdown_loop": 100
 }
